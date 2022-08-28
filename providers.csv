@@ -1,0 +1,17 @@
+provider_location_guid,loc_name,searchable_name,in_stock,supply_level,quantity_last_updated,category
+e220a5f2-f14d-4cfc-8948-3fcffd01d281,KATY MEMORIAL PHARMACY #MS1001872,Flu Shot,0,0,2022-08-18,seasonal
+d33e978d-acf1-4364-8bd3-4a44350bf56d,HUMANA PHARMACY - S. RAINBOW,Flu Shot (Egg free),0,0,2022-08-19,seasonal
+d998c30e-7906-4d2c-9dc0-b92ac2cebde2,Walgreens Co. #13871,Flu Shot (Egg free),0,0,2022-08-22,seasonal
+f7694f5c-5113-4d35-bd63-57f54087cc50,"CVS Pharmacy, Inc. #02715","Flu Shot (65+, high-dose or adjuvanted)",0,0,2022-08-26,seasonal
+0a235866-d818-48b1-a3e1-c2ac46147983,Walgreens Co. #10175,Flu Shot (Egg free),0,0,2022-08-22,seasonal
+11e6fbb5-ea09-42fa-b768-50255b6c9069,Walgreens Co. #15948,Flu Shot (Egg free),0,0,2022-08-22,seasonal
+f49d2fc6-c613-4105-888b-e8a6c361c569,"CVS Pharmacy, Inc. #18027",Flu Shot,0,0,2022-08-20,seasonal
+272477b0-236a-4c32-a592-df9438de140a,"CVS Pharmacy, Inc. #16911",Flu Shot,0,0,2022-08-20,seasonal
+36b5f684-97ce-48eb-9e3b-ac8a6c785916,Walgreens Co. #13844,Flu Shot (Egg free),0,0,2022-08-22,seasonal
+68c93e94-a046-47c7-9b10-d40fb67a24eb,Walgreens Co. #3125,"Flu Shot (65+, high-dose or adjuvanted)",0,0,2022-08-22,seasonal
+a82d525e-27a9-4a7c-86fc-8ec0dd8b24e2,Publix Super Markets Inc. #672,"Flu Shot (65+, high-dose or adjuvanted)",1,4,2022-08-26,seasonal
+b21d86e8-cb65-469a-8378-03599ee1666a,Walgreens Co. #9295,"Flu Shot (65+, high-dose or adjuvanted)",0,0,2022-08-22,seasonal
+3cf1cf66-9a9a-4fce-b3f0-7587c21f5780,"CVS Pharmacy, Inc. #18096",Flu Shot,0,0,2022-08-20,seasonal
+680ee331-35ee-4613-97a0-c17b1cd31feb,"CVS Pharmacy, Inc. #06710",Flu Shot,0,0,2022-08-20,seasonal
+0787754d-157a-4854-81f0-f3662d43c805,Kroger Pharmacy #03400137,Flu Shot,1,0,2022-08-27,seasonal
+5e1eb3de-329a-493c-a53d-e264a97e3595,H-E-B #412,"Flu Shot (65+, high-dose or adjuvanted)",0,0,2022-08-27,seasonal

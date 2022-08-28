@@ -1,0 +1,17 @@
+note_id,loc_name,web_address,pre_screen,insurance_accepted,walkins_accepted,provider_notes
+note_1,KATY MEMORIAL PHARMACY #MS1001872,,,1,0,"Pharmacy is located on the first (1) floor of the Medical Plaza Building -1 next to Memorial Hermann -Katy Hospital. The address above on the left of the screen is INCORRECT.  This is correct address : 23920 Katy FWY. Ste#112, Katy, TX 77494"
+note_2,HUMANA PHARMACY - S. RAINBOW,,,1,0,Please call the pharmacy to schedule your vaccination.
+note_3,Walgreens Co. #13871,https://www.walgreens.com,https://www.walgreens.com/findcare/vaccination/covid-19,1,1,Appointments are not required to receive a Flu vaccine.  walk-ins are accepted at this time.
+note_4,"CVS Pharmacy, Inc. #02715",https://www.cvs.com/store-locator/details-directions/002715,https://www.cvs.com/immunizations/get-vaccinated,1,1,It is highly recommended to make an appointment for pediatric (5-11 years old) COVID-19 vaccinations.
+note_5,Walgreens Co. #10175,https://www.walgreens.com,https://www.walgreens.com/findcare/vaccination/covid-19,1,1,Appointments are not required to receive a Flu vaccine.  walk-ins are accepted at this time.
+note_6,Walgreens Co. #15948,https://www.walgreens.com,https://www.walgreens.com/findcare/vaccination/covid-19,1,1,Appointments are not required to receive a Flu vaccine.  walk-ins are accepted at this time.
+note_7,"CVS Pharmacy, Inc. #18027",https://www.cvs.com/store-locator/details-directions/018027,https://www.cvs.com/immunizations/get-vaccinated,1,1,It is highly recommended to make an appointment for pediatric (5-11 years old) COVID-19 vaccinations.
+note_8,"CVS Pharmacy, Inc. #16911",https://www.cvs.com/store-locator/details-directions/016911,https://www.cvs.com/immunizations/get-vaccinated,1,1,It is highly recommended to make an appointment for pediatric (5-11 years old) COVID-19 vaccinations.
+note_9,Walgreens Co. #13844,https://www.walgreens.com,https://www.walgreens.com/findcare/vaccination/covid-19,1,1,Appointments are not required to receive a Flu vaccine.  walk-ins are accepted at this time.
+note_10,Walgreens Co. #3125,https://www.walgreens.com,https://www.walgreens.com/findcare/vaccination/covid-19,1,1,Appointments are not required to receive a Flu vaccine.  walk-ins are accepted at this time.
+note_11,Publix Super Markets Inc. #672,https://www.publix.com/pharmacy/pharmacy-services/vaccinations,https://www.publix.com/vaccines,1,1,
+note_12,Walgreens Co. #9295,https://www.walgreens.com,https://www.walgreens.com/findcare/vaccination/covid-19,1,1,Appointments are not required to receive a Flu vaccine.  walk-ins are accepted at this time.
+note_13,"CVS Pharmacy, Inc. #18096",https://www.cvs.com/store-locator/details-directions/018096,https://www.cvs.com/immunizations/get-vaccinated,1,1,It is highly recommended to make an appointment for pediatric (5-11 years old) COVID-19 vaccinations.
+note_14,"CVS Pharmacy, Inc. #06710",https://www.cvs.com/store-locator/details-directions/006710,https://www.cvs.com/immunizations/get-vaccinated,1,1,It is highly recommended to make an appointment for pediatric (5-11 years old) COVID-19 vaccinations.
+note_15,Kroger Pharmacy #03400137,http://www.krogerhealth.com,https://www.kroger.com/i/coronavirus-update/vaccine,1,0,
+note_16,H-E-B #412,https://vaccine.heb.com/,https://vaccine.heb.com/,0,1,
